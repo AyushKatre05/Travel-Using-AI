@@ -16,7 +16,7 @@ const Hero = () => {
                     </p>
                     <Link to={'/create-trip'}>
                     <Button className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-6 rounded text-lg">
-                        Get Started
+                        Plan your Trip
                     </Button>
                     </Link>
                 </div>

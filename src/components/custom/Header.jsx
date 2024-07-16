@@ -8,9 +8,9 @@ const Header = () => {
                 <div>
                     <img src={logo} alt="Logo" className="h-10 mr-2" />
                 </div>
-                <button className="bg-primary hover:bg-indigo-500 text-white py-2 px-4 rounded">
-                    Sign In
-                </button>
+                <div>
+                    <img src={logo} alt="Logo" className="h-10 mr-2" />
+                </div>
             </div>
         </header>
   )
